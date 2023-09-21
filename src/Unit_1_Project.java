@@ -11,6 +11,7 @@ public class Unit_1_Project {
                 System.out.println("Aything else?: ");
                 number = scan.nextDouble();
                 number += number;
+                int x = 5;
             }
         }
 
