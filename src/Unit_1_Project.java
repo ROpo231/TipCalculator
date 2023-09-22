@@ -7,13 +7,14 @@ public class Unit_1_Project {
         System.out.println("What is the price of the item?: ");
         number = scan.nextDouble();
         while(number != -1) {
-            if() {
                 System.out.println("Aything else?: ");
                 number = scan.nextDouble();
                 number += number;
-                int x = 5;
-            }
+
+
         }
+        System.out.println("Total bill : " + number);
+
 
 
 
